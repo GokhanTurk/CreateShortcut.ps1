@@ -1,2 +1,2 @@
 # CreateShortcut.ps1
-This powershell script creating shortcut on current user's desktop.
+This powershell script creates a shortcut on the desktop for each user.
